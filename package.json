@@ -1,0 +1,21 @@
+{
+  "name": "omenlight",
+  "displayName": "Omenlight",
+  "description": "A high-contrast theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Omenlight",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight.json"
+      }
+    ]
+  }
+}
