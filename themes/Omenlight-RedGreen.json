@@ -1,6 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "PulseFire",
+    "name": "Omenlight-RedGreen",
+    "type": "dark|hc",
     "tokenColors": [
         {
             "settings": {
@@ -344,7 +345,7 @@
         "editor.findMatchHighlightBackground": "#eeeeee44",
         "editor.findMatchForeground": "#59b4ff",
         "editor.selectionBackground": "#eeeeee44",
-        "editor.selectionForeground": "#69bbff",
+        "editor.selectionForeground": "#69bff0000bff",
         "editor.lineHighlightBorder": "#00FF00",
         "editorLineNumber.foreground": "#ff0000",
         "editorLineNumber.activeForeground": "#00FF00",
@@ -422,7 +423,7 @@
         "tab.unfocusedActiveBorder": "#00FF00",
         "tab.activeModifiedBorder": "#00FF00",
         "tab.inactiveModifiedBorder": "#FFFFFF",
-        "tab.hoverBorder": "#FFFFFF",
+        "tab.hoverBorder": "#ff0000",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorGroup.border": "#00FF00",
         "editorGroupHeader.tabsBorder": "#000000",
