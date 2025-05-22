@@ -12,6 +12,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Omenlight-CrimsonIce",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-CrimsonIce.json"
+      },
+      {
         "label": "Omenlight-MintOrange",
         "uiTheme": "hc-black",
         "path": "./themes/Omenlight-MintOrange.json"
