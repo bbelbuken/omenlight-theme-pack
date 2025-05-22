@@ -12,14 +12,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omenlight-RedGreen",
+        "label": "Omenlight-LimeCyan",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-RedGreen.json"
+        "path": "./themes/Omenlight-LimeCyan.json"
       },
       {
         "label": "Omenlight-PurpleGold",
         "uiTheme": "hc-black",
         "path": "./themes/Omenlight-PurpleGold.json"
+      },
+      {
+        "label": "Omenlight-RedGreen",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-RedGreen.json"
       }
     ]
   }
