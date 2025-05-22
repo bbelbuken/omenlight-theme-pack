@@ -4,25 +4,6 @@
     "type": "dark|hc",
     "tokenColors": [
         {
-            "settings": {
-                "foreground": "#FFFFFF",
-                "background": "#000c18",
-                "caret": "#F8F8F0",
-                "invisibles": "#3B3A32",
-                "lineHighlight": "#2c120b",
-                "selection": "#2c120b",
-                "findHighlight": "#FFE792",
-                "findHighlightForeground": "#000000",
-                "selectionBorder": "#222218",
-                "activeGuide": "#9D550FB0",
-                "bracketsForeground": "#F8F8F2A5",
-                "bracketsOptions": "underline",
-                "bracketContentsForeground": "#F8F8F2A5",
-                "bracketContentsOptions": "underline",
-                "tagsOptions": "stippled_underline"
-            }
-        },
-        {
             "name": "Comment",
             "scope": [
                 "comment"
@@ -339,7 +320,7 @@
         "focusBorder": "#ff0000",
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#000000",
+        "editor.inactiveSelectionBackground": "#eeeeee44",
         "editor.findMatchBackground": "#ff00002d",
         "editor.findMatchBorder": "#4c00ff",
         "editor.findMatchHighlightBackground": "#eeeeee44",

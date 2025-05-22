@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omenlight-LimeCyan",
+        "label": "Omenlight-AmberCyan",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-LimeCyan.json"
+        "path": "./themes/Omenlight-AmberCyan.json"
+      },
+      {
+        "label": "Omenlight-CyanLime",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-CyanLime.json"
       },
       {
         "label": "Omenlight-PurpleGold",

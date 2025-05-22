@@ -1,27 +1,8 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Omenlight-RedGreen",
+    "name": "Omenlight-CyanLime",
     "type": "dark|hc",
     "tokenColors": [
-        {
-            "settings": {
-                "foreground": "#FFFFFF",
-                "background": "#000c18",
-                "caret": "#F8F8F0",
-                "invisibles": "#3B3A32",
-                "lineHighlight": "#2c120b",
-                "selection": "#2c120b",
-                "findHighlight": "#FFE792",
-                "findHighlightForeground": "#000000",
-                "selectionBorder": "#222218",
-                "activeGuide": "#9D550FB0",
-                "bracketsForeground": "#F8F8F2A5",
-                "bracketsOptions": "underline",
-                "bracketContentsForeground": "#F8F8F2A5",
-                "bracketContentsOptions": "underline",
-                "tagsOptions": "stippled_underline"
-            }
-        },
         {
             "name": "Comment",
             "scope": [
@@ -339,7 +320,7 @@
         "focusBorder": "#00BFFF",
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#000000",
+        "editor.inactiveSelectionBackground": "#4c00ff80",
         "editor.findMatchBackground": "#ffd90036",
         "editor.findMatchBorder": "#4c00ff",
         "editor.findMatchHighlightBackground": "#eeeeee44",
@@ -355,8 +336,8 @@
         "editorLink.activeForeground": "#0063a5",
         "terminal.ansiBlack": "#8f8f8f",
         "terminal.ansiBrightBlack": "#8f8f8f",
-        "terminal.ansiRed": "#FFD700",
-        "terminal.ansiBrightRed": "#FFD700",
+        "terminal.ansiRed": "#ff0000",
+        "terminal.ansiBrightRed": "#ff0000",
         "terminal.ansiGreen": "#00FF00",
         "terminal.ansiBrightGreen": "#00FF00",
         "terminal.ansiYellow": "#fffb00",
