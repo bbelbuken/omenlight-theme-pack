@@ -32,9 +32,9 @@
         "path": "./themes/Omenlight-PurpleGold.json"
       },
       {
-        "label": "Omenlight-RedGreen",
+        "label": "Omenlight-GreenMagenta",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-RedGreen.json"
+        "path": "./themes/Omenlight-GreenMagenta.json"
       }
     ]
   }
