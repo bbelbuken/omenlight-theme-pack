@@ -12,14 +12,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "Omenlight-WhiteOrange",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-WhiteOrange.json"
+      },
+      {
         "label": "Omenlight-IceCrimson",
         "uiTheme": "hc-black",
         "path": "./themes/Omenlight-IceCrimson.json"
       },
       {
-        "label": "Omenlight-CrimsonIce",
+        "label": "Omenlight-CrimsonMint",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-CrimsonIce.json"
+        "path": "./themes/Omenlight-CrimsonMint.json"
       },
       {
         "label": "Omenlight-MintOrange",
