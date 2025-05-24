@@ -12,44 +12,54 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omenlight-WhiteOrange",
+        "label": "Omenlight-Frostflame",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-WhiteOrange.json"
+        "path": "./themes/Omenlight-Frostflame.json"
       },
       {
-        "label": "Omenlight-IceCrimson",
+        "label": "Omenlight-Icelime",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-IceCrimson.json"
+        "path": "./themes/Omenlight-Icelime.json"
       },
       {
-        "label": "Omenlight-CrimsonMint",
+        "label": "Omenlight-Solflare",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-CrimsonMint.json"
+        "path": "./themes/Omenlight-Solflare.json"
       },
       {
-        "label": "Omenlight-MintOrange",
+        "label": "Omenlight-Bloodveil",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-MintOrange.json"
+        "path": "./themes/Omenlight-Bloodveil.json"
       },
       {
-        "label": "Omenlight-CyanPink",
+        "label": "Omenlight-Edenblush",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-CyanPink.json"
+        "path": "./themes/Omenlight-Edenblush.json"
       },
       {
-        "label": "Omenlight-AmberCyan",
+        "label": "Omenlight-Vermintis",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-AmberCyan.json"
+        "path": "./themes/Omenlight-Vermintis.json"
       },
       {
-        "label": "Omenlight-PurpleGold",
+        "label": "Omenlight-Rosequill",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-PurpleGold.json"
+        "path": "./themes/Omenlight-Rosequill.json"
       },
       {
-        "label": "Omenlight-GreenMagenta",
+        "label": "Omenlight-Aetherglow",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-GreenMagenta.json"
+        "path": "./themes/Omenlight-Aetherglow.json"
+      },
+      {
+        "label": "Omenlight-Lilascape",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Lilascape.json"
+      },
+      {
+        "label": "Omenlight-Toxira",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Toxira.json"
       }
     ]
   }
