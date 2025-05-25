@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Bloodveil",
-    "type": "hc",
+    "type": "dark",
     "tokenColors": [
         {
             "name": "Comment",

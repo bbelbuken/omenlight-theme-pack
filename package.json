@@ -1,10 +1,25 @@
 {
-  "name": "omenlight",
-  "displayName": "Omenlight",
-  "description": "A high-contrast theme",
-  "version": "0.0.1",
+  "name": "omenlight-high-contrast-themes",
+  "displayName": "Omenlight – High Contrast Themes",
+  "description": "A vibrant collection of high-contrast VSCode themes designed for clarity and aesthetics.",
+  "version": "1.0.0",
+  "publisher": "bbelbuken",
+  "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "high contrast",
+    "neon",
+    "vibrant",
+    "omenlight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbelbuken/omenlight-theme-pack"
+  },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
@@ -12,53 +27,53 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omenlight-Aetherglow",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Aetherglow",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Aetherglow.json"
       },
       {
-        "label": "Omenlight-Bloodveil",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Bloodveil",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Bloodveil.json"
       },
       {
-        "label": "Omenlight-Edenblush",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Edenblush",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Edenblush.json"
       },
       {
-        "label": "Omenlight-Frostflame",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Frostflame",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Frostflame.json"
       },
       {
-        "label": "Omenlight-Lilascape",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Lilascape",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Lilascape.json"
       },
       {
-        "label": "Omenlight-Neonwave",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Neonwave",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Neonwave.json"
       },
       {
-        "label": "Omenlight-Rosequill",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Rosequill",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Rosequill.json"
       },
       {
-        "label": "Omenlight-Solflare",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Solflare",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Solflare.json"
       },
       {
-        "label": "Omenlight-Toxira",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Toxira",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Toxira.json"
       },
       {
-        "label": "Omenlight-Vermintis",
-        "uiTheme": "hc-black",
+        "label": "Omenlight - Vermintis",
+        "uiTheme": "vs-dark",
         "path": "./themes/Omenlight-Vermintis.json"
       }
     ]

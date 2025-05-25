@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Toxira",
-    "type": "hc",
+    "type": "dark",
     "tokenColors": [
         {
             "name": "Comment",
