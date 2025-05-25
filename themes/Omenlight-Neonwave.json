@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Neonwave",
-    "type": "dark|hc",
+    "type": "hc",
     "tokenColors": [
         {
             "name": "Comment",
@@ -71,7 +71,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#a0d1ff"
+                "foreground": "#3cd8ff"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#a0d1ff"
+                "foreground": "#3cd8ff"
             }
         },
         {
@@ -135,7 +135,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#a0d1ff"
+                "foreground": "#3cd8ff"
             }
         },
         {
@@ -146,7 +146,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#a0d1ff"
+                "foreground": "#3cd8ff"
             }
         },
         {
@@ -281,7 +281,7 @@
         {
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#a0d1ff"
+                "foreground": "#3cd8ff"
             }
         },
         {

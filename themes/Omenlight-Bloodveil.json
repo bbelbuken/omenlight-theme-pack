@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Bloodveil",
-    "type": "dark|hc",
+    "type": "hc",
     "tokenColors": [
         {
             "name": "Comment",
@@ -71,7 +71,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#66FFFF"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#66FFFF"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -135,7 +135,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#66FFFF"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -146,7 +146,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#66FFFF"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -281,7 +281,7 @@
         {
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#66FFFF"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -343,8 +343,8 @@
         "terminal.ansiBrightGreen": "#00FF00",
         "terminal.ansiYellow": "#FFBF00",
         "terminal.ansiBrightYellow": "#FFBF00",
-        "terminal.ansiBlue": "#66FFFF",
-        "terminal.ansiBrightBlue": "#66FFFF",
+        "terminal.ansiBlue": "#00F0FF",
+        "terminal.ansiBrightBlue": "#00F0FF",
         "terminal.ansiMagenta": "#FF1744",
         "terminal.ansiBrightMagenta": "#FF1744",
         "terminal.ansiCyan": "#4c00ff",

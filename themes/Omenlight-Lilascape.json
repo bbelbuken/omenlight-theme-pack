@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Lilascape",
-    "type": "dark|hc",
+    "type": "hc",
     "tokenColors": [
         {
             "name": "Comment",
@@ -55,7 +55,7 @@
             "scope": "keyword",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#ff0000"
+                "foreground": "#fd2121"
             }
         },
         {
@@ -63,7 +63,7 @@
             "scope": "storage",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#ff0000"
+                "foreground": "#fd2121"
             }
         },
         {
@@ -71,7 +71,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#00F0FF"
+                "foreground": "#C792EA"
             }
         },
         {
@@ -111,7 +111,7 @@
             "scope": "entity.name.tag",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#ff0000"
+                "foreground": "#fd2121"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#00F0FF"
+                "foreground": "#C792EA"
             }
         },
         {
@@ -135,7 +135,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#00F0FF"
+                "foreground": "#C792EA"
             }
         },
         {
@@ -146,7 +146,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#00F0FF"
+                "foreground": "#C792EA"
             }
         },
         {
@@ -160,7 +160,7 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#ff0000",
+                "background": "#fd2121",
                 "fontStyle": "bold",
                 "foreground": "#F8F8F0"
             }
@@ -194,8 +194,8 @@
             "name": "diff.deleted",
             "scope": "markup.deleted",
             "settings": {
-                "background": "#ff0000",
-                "foreground": "#ff0000"
+                "background": "#fd2121",
+                "foreground": "#fd2121"
             }
         },
         {
@@ -281,7 +281,7 @@
         {
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#00F0FF"
+                "foreground": "#C792EA"
             }
         },
         {
@@ -337,8 +337,8 @@
         "editorLink.activeForeground": "#0063a5",
         "terminal.ansiBlack": "#8f8f8f",
         "terminal.ansiBrightBlack": "#8f8f8f",
-        "terminal.ansiRed": "#ff0000",
-        "terminal.ansiBrightRed": "#ff0000",
+        "terminal.ansiRed": "#fd2121",
+        "terminal.ansiBrightRed": "#fd2121",
         "terminal.ansiGreen": "#00F0FF",
         "terminal.ansiBrightGreen": "#00F0FF",
         "terminal.ansiYellow": "#fff45c",

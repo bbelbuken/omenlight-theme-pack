@@ -71,7 +71,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#00F0FF"
+                "foreground": "#67ffff"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#00F0FF"
+                "foreground": "#67ffff"
             }
         },
         {
@@ -135,7 +135,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#00F0FF"
+                "foreground": "#67ffff"
             }
         },
         {
@@ -146,7 +146,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#00F0FF"
+                "foreground": "#67ffff"
             }
         },
         {
@@ -281,7 +281,7 @@
         {
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#00F0FF"
+                "foreground": "#67ffff"
             }
         },
         {
@@ -343,8 +343,8 @@
         "terminal.ansiBrightGreen": "#67ffff",
         "terminal.ansiYellow": "#FFBF00",
         "terminal.ansiBrightYellow": "#FFBF00",
-        "terminal.ansiBlue": "#00F0FF",
-        "terminal.ansiBrightBlue": "#00F0FF",
+        "terminal.ansiBlue": "#67ffff",
+        "terminal.ansiBrightBlue": "#67ffff",
         "terminal.ansiMagenta": "#ff71ff",
         "terminal.ansiBrightMagenta": "#ff71ff",
         "terminal.ansiCyan": "#4c00ff",

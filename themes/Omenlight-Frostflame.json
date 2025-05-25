@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Frostflame",
-    "type": "dark|hc",
+    "type": "hc",
     "tokenColors": [
         {
             "name": "Comment",

@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Omenlight-Edenblush",
-    "type": "dark|hc",
+    "type": "hc",
     "tokenColors": [
         {
             "name": "Comment",
@@ -71,7 +71,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#67ffff"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -127,7 +127,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#67ffff"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -135,7 +135,7 @@
             "scope": "support.constant",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#67ffff"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -146,7 +146,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#67ffff"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -281,7 +281,7 @@
         {
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#67ffff"
+                "foreground": "#00F0FF"
             }
         },
         {
@@ -342,8 +342,8 @@
         "terminal.ansiBrightGreen": "#00FF00",
         "terminal.ansiYellow": "#FFCE73",
         "terminal.ansiBrightYellow": "#FFCE73",
-        "terminal.ansiBlue": "#67ffff",
-        "terminal.ansiBrightBlue": "#67ffff",
+        "terminal.ansiBlue": "#00F0FF",
+        "terminal.ansiBrightBlue": "#00F0FF",
         "terminal.ansiMagenta": "#ff71ff",
         "terminal.ansiBrightMagenta": "#ff71ff",
         "terminal.ansiCyan": "#4c00ff",

@@ -12,19 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Omenlight-Frostflame",
+        "label": "Omenlight-Aetherglow",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Frostflame.json"
-      },
-      {
-        "label": "Omenlight-Neonwave",
-        "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Neonwave.json"
-      },
-      {
-        "label": "Omenlight-Solflare",
-        "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Solflare.json"
+        "path": "./themes/Omenlight-Aetherglow.json"
       },
       {
         "label": "Omenlight-Bloodveil",
@@ -37,19 +27,9 @@
         "path": "./themes/Omenlight-Edenblush.json"
       },
       {
-        "label": "Omenlight-Vermintis",
+        "label": "Omenlight-Frostflame",
         "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Vermintis.json"
-      },
-      {
-        "label": "Omenlight-Rosequill",
-        "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Rosequill.json"
-      },
-      {
-        "label": "Omenlight-Aetherglow",
-        "uiTheme": "hc-black",
-        "path": "./themes/Omenlight-Aetherglow.json"
+        "path": "./themes/Omenlight-Frostflame.json"
       },
       {
         "label": "Omenlight-Lilascape",
@@ -57,9 +37,29 @@
         "path": "./themes/Omenlight-Lilascape.json"
       },
       {
+        "label": "Omenlight-Neonwave",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Neonwave.json"
+      },
+      {
+        "label": "Omenlight-Rosequill",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Rosequill.json"
+      },
+      {
+        "label": "Omenlight-Solflare",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Solflare.json"
+      },
+      {
         "label": "Omenlight-Toxira",
         "uiTheme": "hc-black",
         "path": "./themes/Omenlight-Toxira.json"
+      },
+      {
+        "label": "Omenlight-Vermintis",
+        "uiTheme": "hc-black",
+        "path": "./themes/Omenlight-Vermintis.json"
       }
     ]
   }
