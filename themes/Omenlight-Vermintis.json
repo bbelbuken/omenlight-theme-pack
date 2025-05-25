@@ -9,7 +9,7 @@
                 "comment"
             ],
             "settings": {
-                "foreground": "#eeeeee92"
+                "foreground": "#fcb772"
             }
         },
         {
@@ -318,15 +318,16 @@
         "contrastBorder": "#000000",
         "contrastActiveBorder": "#000000",
         "focusBorder": "#00FFAA",
+        "scrollbarSlider.background": "#00FFAA80",
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#4c00ff80",
-        "editor.findMatchBackground": "#ffd90036",
-        "editor.findMatchBorder": "#4c00ff",
-        "editor.findMatchHighlightBackground": "#eeeeee44",
-        "editor.findMatchForeground": "#98d800",
-        "editor.selectionBackground": "#4c00ff80",
-        "editor.selectionForeground": "#98d800",
+        "editor.inactiveSelectionBackground": "#FF5F1F6e",
+        "editor.findMatchBackground": "#FF5F1F6e",
+        "editor.findMatchBorder": "#FF5F1F6e",
+        "editor.findMatchHighlightBackground": "#FF5F1F6e",
+        "editor.findMatchForeground": "#ffac8b",
+        "editor.selectionBackground": "#FF5F1F6e",
+        "editor.selectionForeground": "#e5f5c000",
         "editor.lineHighlightBorder": "#00FFAA",
         "editorLineNumber.foreground": "#FF5F1F",
         "editorLineNumber.activeForeground": "#00FFAA",

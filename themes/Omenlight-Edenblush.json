@@ -103,7 +103,7 @@
             "scope": "variable.parameter",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#eeeeee92"
+                "foreground": "#ff8000"
             }
         },
         {
@@ -317,16 +317,16 @@
         "icon.foreground": "#ffffff",
         "contrastBorder": "#000000",
         "contrastActiveBorder": "#000000",
-        "focusBorder": "#DC143C",
+        "scrollbarSlider.background": "#dc143c62",
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
-        "editor.inactiveSelectionBackground": "#4c00ff80",
-        "editor.findMatchBackground": "#ffd90036",
-        "editor.findMatchBorder": "#4c00ff",
-        "editor.findMatchHighlightBackground": "#eeeeee44",
-        "editor.findMatchForeground": "#98d800",
-        "editor.selectionBackground": "#4c00ff80",
-        "editor.selectionForeground": "#98d800",
+        "editor.inactiveSelectionBackground": "#FFCE736e",
+        "editor.findMatchBackground": "#FFCE736e",
+        "editor.findMatchBorder": "#FFCE736e",
+        "editor.findMatchHighlightBackground": "#FFCE736e",
+        "editor.findMatchForeground": "#ffdfa4",
+        "editor.selectionBackground": "#FFCE736e",
+        "editor.selectionForeground": "#e5f5c000",
         "editor.lineHighlightBorder": "#DC143C",
         "editorLineNumber.foreground": "#FFCE73",
         "editorLineNumber.activeForeground": "#DC143C",
