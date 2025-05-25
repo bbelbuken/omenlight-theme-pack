@@ -1,7 +1,5 @@
-# Omenlight – High Contrast Themes
-
 ![Omenlight Theme Preview](images/preview.png)
-
+`
 A vibrant collection of high-contrast VSCode themes designed for clarity and aesthetics.  
 Perfect for developers who want a visually striking, neon-inspired dark theme with excellent readability.
 

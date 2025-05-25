@@ -1,8 +1,8 @@
 {
   "name": "omenlight-high-contrast-themes",
-  "displayName": "Omenlight – High Contrast Themes",
+  "displayName": "Omenlight: High Contrast Themes",
   "description": "A vibrant collection of high-contrast VSCode themes designed for clarity and aesthetics.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bbelbuken",
   "license": "MIT",
   "icon": "icon.png",
