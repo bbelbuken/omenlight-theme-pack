@@ -1,36 +1,60 @@
-# Omenlight - Neon High Contrast  
-A neon-inspired, high contrast theme for Visual Studio Code featuring vibrant bright green and electric red highlights.
+# Omenlight – High Contrast Themes
 
-This theme is designed around a bold, eye-catching palette with **neon green (`#00ff00`)** as the primary highlight color — giving notes, selections, and interactive elements maximum visibility. Neon bright red (`#ff0000`) flows like molten fire, sparking borders, errors, and warnings with intense energy, making your code visually pop while maintaining readability.
+![Omenlight Theme Preview](images/preview.png)
 
-<!-- -![screenshot](https://raw.githubusercontent.com/yourusername/omenlight-theme/main/images/screenshot.png) -->
-
-## What’s New?  
-- Neon green (`#00ff00`) as the main highlight color for notes, keywords, and interactive UI elements  
-- Neon red (`#ff0000`) used for fiery accents on borders, errors, and warnings to grab immediate attention  
-- High contrast color combinations designed for maximum readability and focus  
-- Improved visibility on brackets, function parentheses, and selections  
-- Optimized for dark backgrounds with electric neon vibrance  
-
-## Tested Languages  
-- JavaScript / TypeScript  
-- HTML / XML  
-- CSS / SCSS  
-- JSON  
-- Markdown  
-
-## To Do  
-- Expand language support to Rust, Ruby, and more  
-- Add custom icons that match the neon aesthetic  
-- Improve theming for error and warning messages  
-- Refine color balance for nested brackets and UI components  
-- Create a matching icon for the VSCode Marketplace  
-- Polish Marketplace listing and README with user guides and screenshots  
-
- ## Info  
-- [GitHub Repository](https://github.com/bbelbuken/omenlight-theme-pack)  
-<!--  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=yourusername.omenlight)   -->
+A vibrant collection of high-contrast VSCode themes designed for clarity and aesthetics.  
+Perfect for developers who want a visually striking, neon-inspired dark theme with excellent readability.
 
 ---
 
-*Feel the pulse of neon fire in your editor — code with intensity and clarity.*  
+## Included Themes
+
+- **Omenlight - Aetherglow**
+- **Omenlight - Bloodveil**
+- **Omenlight - Edenblush**
+- **Omenlight - Frostflame**
+- **Omenlight - Lilascape**
+- **Omenlight - Neonwave**
+- **Omenlight - Rosequill**
+- **Omenlight - Solflare**
+- **Omenlight - Toxira**
+- **Omenlight - Vermintis**
+
+---
+
+## Features
+
+- High contrast and vibrant neon colors
+- Carefully crafted color palettes for syntax highlighting
+- Dark UI to reduce eye strain during long coding sessions
+- Supports various programming languages out of the box
+
+---
+
+## Installation
+
+1. Search for **Omenlight – High Contrast Themes** in the VSCode Extensions Marketplace.  
+2. Click **Install**.  
+3. Go to **Preferences > Color Theme** and select your preferred Omenlight theme.
+
+---
+
+## Usage
+
+After installation, open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P`), then type `Color Theme` and choose one of the Omenlight themes.
+
+---
+
+## Feedback and Contributions
+
+Feel free to open issues or submit pull requests on [GitHub](https://github.com/bbelbuken/omenlight-theme-pack).
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy your coding with Omenlight!
