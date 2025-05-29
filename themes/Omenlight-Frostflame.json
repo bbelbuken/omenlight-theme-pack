@@ -328,7 +328,7 @@
         "editor.findMatchForeground": "#a9f0fa",
         "editor.selectionBackground": "#00e1ff6e",
         "editor.selectionForeground": "#e5f5c000",
-        "editor.lineHighlightBorder": "#ff4e00",
+        "editor.lineHighlightBorder": "#ff4d0033",
         "editorLineNumber.foreground": "#00e1ff",
         "editorLineNumber.activeForeground": "#ff4e00",
         "editorMarkerNavigation.background": "#060621",
