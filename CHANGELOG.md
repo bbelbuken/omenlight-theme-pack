@@ -1,9 +1,8 @@
-# Change Log
+## [1.0.3] - 2025-07-01
 
-All notable changes to the "pulsefire" extension will be documented in this file.
+- Dimmed the `editor.selectionBackground` colors for improved visual comfort.
+- Updated color schemes for `diffEditor` and `editorSuggestWidget` to enhance readability and consistency.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0] - 2025-05-25,   
 
-## [Unreleased]
-
-- Initial release
+- Initial release.
