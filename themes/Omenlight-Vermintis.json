@@ -458,6 +458,9 @@
         "list.inactiveFocusOutline": "#FF5F1F",
         "gitlens.trailingLineBackgroundColor": "#000000",
         "gitlens.trailingLineForegroundColor": "#eeeeee79",
+        "scmGraph.historyItemHoverLabelForeground": "#000000",
+        "scmGraph.historyItemRefColor": "#FFD700",
+        "scmGraph.historyItemRemoteRefColor": "#00FFAA",
         "terminal.border": "#00FFAA",
         "extensionButton.separator": "#000",
     }
