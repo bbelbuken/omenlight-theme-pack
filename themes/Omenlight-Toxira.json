@@ -119,7 +119,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#00FF00"
+                "foreground": "#ffbd7a"
             }
         },
         {
@@ -322,9 +322,9 @@
         "editor.foreground": "#FFFFFF",
         "editor.background": "#000000",
         "editor.inactiveSelectionBackground": "#ff4dff3d",
-        "editor.findMatchBackground": "#fF4DFF6e",
+        "editor.findMatchBackground": "#ff4dff21",
         "editor.findMatchBorder": "#fF4DFF6e",
-        "editor.findMatchHighlightBackground": "#fF4DFF6e",
+        "editor.findMatchHighlightBackground": "#bebebe50",
         "editor.findMatchForeground": "#ffb4ff",
         "editor.selectionBackground": "#ff4dff3d",
         "editor.selectionForeground": "#e5f5c000",

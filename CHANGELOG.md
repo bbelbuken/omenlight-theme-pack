@@ -1,3 +1,8 @@
+## [1.0.5] - 2025-07-06
+
+- Refined Tag attribute and function argument token styling for improved consistency and clarity.
+- Updated editor.findMatchHighlightBackground and editor.findMatchBackground to better align with the theme's neon aesthetic.
+
 ## [1.0.4] - 2025-07-02
 
 - Improved GitLens and Source Control graph colors for better contrast and visibility.
